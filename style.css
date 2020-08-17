@@ -1,0 +1,119 @@
+.bg-image{
+        background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/img/bh-hero2.jpg') no-repeat center;
+        background-size: cover;
+        background-attachment: fixed;
+        height: 120vh;
+        background-position: 0px -0px;
+       
+
+}
+.bg-image2{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/img/bg-hero.jpg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 90vh;
+    background-position: 0px -10px;
+    border-bottom: black 40px solid;
+   
+
+}
+.header-text{
+    /* margin-left: 290px; */
+    text-align: center;
+    width: 800px;
+}
+.header-text h2{
+    font-size: 100px;
+    font-weight: 100;
+}
+.header-text p{
+    font-size: 30px;
+    font-weight: 500;
+    padding-top: 20px;
+}
+.header-text button{
+    font-size: 25px;
+    font-weight: 100;
+    margin-top: 50px;
+    padding: 10px 30px;
+    background-color: white;
+    color: black;
+    border: none;
+}
+.header-text button:hover{
+    background-color: grey;
+}
+.header-text h2,p{
+    color: white;
+}
+.middle-bg{
+    background-color: black;
+    height: 110vh;
+}
+/* .padding{
+    padding-right: 20%;
+} */
+.book-text{
+    text-align: right;
+    
+}
+.book-text h5{
+    color: white;
+    font-size: 45px;
+    font-weight: 200;
+}
+.book-text p{
+    color: white;
+    font-size: 25px;
+    font-weight: 400;
+    margin-top: 40px;
+}
+.book-text hr{
+    background-color: white;
+    width: 150px;
+    height: 1px;
+    margin-left: 490px;
+}
+.middle-bg-sq{
+    background-color: grey;
+    width: 85%;
+    height: 100%;
+}
+.mid-text{
+    padding-top: 40px;
+    padding-left: 50px;
+    padding-bottom: 40px;
+    margin-top: 95px;
+
+}
+.mid-text-l{
+    padding-top: 40px;
+    padding-right: 50px;
+    padding-bottom: 40px;
+    margin-top: 95px;
+
+
+}
+.mid-text h5{
+    color: white;
+    font-size: 45px;
+    font-weight: 400;
+}
+.mid-text p{
+    color: white;
+    font-size: 20px;
+    font-weight: 300;
+    
+}
+.mid-text i{
+    color: black;
+   
+    
+}
+.bottom-bg{
+    background-color: black;
+    height: 100px;
+    margin-bottom: -30px;
+}
+
+.bg-red{background-color: red;}
